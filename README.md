@@ -42,7 +42,7 @@ yahya@noc:~$ uptime
 </p>
 
 | Area | What I work with |
-|---|---|
+| :--- | :--- |
 | 🔐 **Network Security** | FortiGate firewalls, security policies, IPsec & SSL VPN |
 | 🔀 **Switching & Wireless** | VLAN design, trunking, Cisco switching, UniFi wireless |
 | 📡 **Monitoring** | Zabbix, SNMP, auto-discovery, alerting, IP block tracking |
